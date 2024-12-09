@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=40&pause=1000&color=4C77F7&center=true&vCenter=true&width=1300&lines=Mark+Pelayo;Aspiring+Full-stack+Web+Developer" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkgp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mkgp-dev" /> </p>
-
 <pre>
 I’m currently learning through CS50x 2024, freeCodeCamp, The Odin Project
 </pre>
