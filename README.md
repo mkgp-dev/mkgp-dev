@@ -5,7 +5,7 @@ I’m currently learning through freeCodeCamp, The Odin Project
 </pre>
 
 ## Certificates
-- [CS50x: Introduction to Computer Science](certificate/CS50x.pdf)
+- [CS50x: Introduction to Computer Science](certificate/CS50x.pdf) [(Verified version)](certificate/verified_CS50x.pdf)
   
 <pre>
 <p align="center">
