@@ -6,7 +6,7 @@ I’m currently learning through freeCodeCamp, The Odin Project
 
 ## Certificates
 - [CS50x: Introduction to Computer Science](certificate/CS50x.pdf) [(Verified version)](certificate/verified_CS50x.pdf)
-- [CS50W: Web Programming with Python and JavaScript](certificate/CS50W.pdf)
+- [CS50W: Web Programming with Python and JavaScript](certificate/CS50W.pdf) [(Verified version)](certificate/verified_CS50W.pdf)
   
 <pre>
 <p align="center">
