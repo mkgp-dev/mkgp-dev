@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=40&pause=1000&color=4C77F7&center=true&vCenter=true&width=1300&lines=Mark+Pelayo;Aspiring+Full-stack+Web+Developer" /></a>
 
 <pre>
-I’m currently learning through freeCodeCamp, The Odin Project
+I'm currently pursuing my degree at AMA OEd while also learning through freeCodeCamp and The Odin Project.
 </pre>
 
 ## Certificates
