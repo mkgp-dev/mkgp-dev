@@ -8,6 +8,7 @@ I'm currently pursuing my degree at AMA OEd while also learning through freeCode
 - [CS50x: Introduction to Computer Science](certificate/CS50x.pdf) [(Verified version)](certificate/verified_CS50x.pdf)
 - [CS50W: Web Programming with Python and JavaScript](certificate/CS50W.pdf) [(Verified version)](certificate/verified_CS50W.pdf)
 - [freeCodeCamp: Responsive Web Design](certificate/fcc_responsive_web_design.pdf)
+- [freeCodeCamp: Back End Development and APIs](certificate/fcc_back_end_development_and_apis.pdf)
   
 <pre>
 <p align="center">
