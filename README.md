@@ -9,6 +9,7 @@ I'm currently pursuing my degree at AMA OEd while also learning through freeCode
 - [CS50W: Web Programming with Python and JavaScript](certificate/CS50W.pdf) [(Verified version)](certificate/verified_CS50W.pdf)
 - [freeCodeCamp: Responsive Web Design](certificate/fcc_responsive_web_design.pdf)
 - [freeCodeCamp: Back End Development and APIs](certificate/fcc_back_end_development_and_apis.pdf)
+- [freeCodeCamp: Front End Development Libraries](certificate/fcc_front_end_development_libraries.pdf)
 
 ## Gibberish profiles
 - [freeCodeCamp](https://www.freecodecamp.org/mkgp-dev)
