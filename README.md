@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=40&pause=1000&color=4C77F7&center=true&vCenter=true&width=1300&lines=Mark+Pelayo;Aspiring+Full-stack+Web+Developer" /></a>
 
 <pre>
-I'm currently pursuing my degree at AMA OEd while also learning through freeCodeCamp and The Odin Project.
+I'm currently learning through CS50, freeCodeCamp, and The Odin Project.
 </pre>
 
 ## Certificates
@@ -14,5 +14,6 @@ I'm currently pursuing my degree at AMA OEd while also learning through freeCode
 ## Gibberish profiles
 - [freeCodeCamp](https://www.freecodecamp.org/mkgp-dev)
 - [Codepen](https://codepen.io/mkgp-dev/)
+- [Leetcode](https://leetcode.com/u/mkgpdev/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkgp-dev&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="mkgp-dev" /></p>
