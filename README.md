@@ -5,7 +5,7 @@ I'm currently learning through CS50, freeCodeCamp, and The Odin Project.
 <!-- Gibberish Profiles -->
 <a href="https://www.freecodecamp.org/mkgp-dev"><img src="https://img.shields.io/badge/freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp" /></a>
 <a href="https://codepen.io/mkgp-dev"><img src="https://img.shields.io/badge/codepen-1E1F26?style=for-the-badge&logo=codepen" /></a>
-<a href="https://leetcode.com/u/mkgpdev"><img src="https://img.shields.io/badge/codepen-282828?style=for-the-badge&logo=leetcode" /></a>
+<a href="https://leetcode.com/u/mkgpdev"><img src="https://img.shields.io/badge/leetcode-282828?style=for-the-badge&logo=leetcode" /></a>
 
 <!-- Certificates -->
 ## Certificates
