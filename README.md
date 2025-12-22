@@ -18,6 +18,7 @@ I'm currently learning through CS50, freeCodeCamp, and The Odin Project.
 | Responsive Web Design v8 | freeCodeCamp | [View](https://www.freecodecamp.org/certification/mkgp-dev/responsive-web-design) | [personal-fcc](https://github.com/mkgp-dev/personal-fcc-archive) |
 | Back End Development and APIs v8 | freeCodeCamp | [View](https://www.freecodecamp.org/certification/mkgp-dev/back-end-development-and-apis) | [personal-fcc](https://github.com/mkgp-dev/personal-fcc-archive) |
 | Front End Development Libraries v8 | freeCodeCamp | [View](https://www.freecodecamp.org/certification/mkgp-dev/front-end-development-libraries) | [personal-fcc](https://github.com/mkgp-dev/personal-fcc-archive) |
+| Learning the Basics of VIBE Coding: An Introduction to Visual and Interactive Programming | Certifika | [View](https://explorer.certifika.org/token/BASE-1405) | Unavailable
 
 <!-- Status (this should be hidden for the mean time)
 <p>
