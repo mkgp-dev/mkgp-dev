@@ -1,6 +1,8 @@
+<!-- Hiding this as I finished developing the skills I need
 <pre>
 I'm currently learning through CS50, freeCodeCamp, and The Odin Project.
 </pre>
+-->
 
 <!-- Gibberish Profiles -->
 <a href="https://www.freecodecamp.org/mkgp-dev"><img src="https://img.shields.io/badge/freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp" /></a>
