@@ -1,17 +1,9 @@
-<!-- Hiding this as I finished developing the skills I need
-<pre>
-I'm currently learning through CS50, freeCodeCamp, and The Odin Project.
-</pre>
--->
-
-<!-- Gibberish Profiles -->
-<a href="https://www.freecodecamp.org/mkgp-dev"><img src="https://img.shields.io/badge/freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp" /></a>
-<a href="https://codepen.io/mkgp-dev"><img src="https://img.shields.io/badge/codepen-1E1F26?style=for-the-badge&logo=codepen" /></a>
-<!-- <a href="https://leetcode.com/u/mkgpdev"><img src="https://img.shields.io/badge/leetcode-282828?style=for-the-badge&logo=leetcode" /></a> -->
+<a href="https://portfolio.mkgpdev.xyz/"><img src="https://img.shields.io/badge/portfolio-334155?style=for-the-badge" /></a>
+<a href="https://mkgpdev.xyz/"><img src="https://img.shields.io/badge/hub-1e293b?style=for-the-badge" /></a>
 
 <!-- Certificates -->
 ## Certificates
-> You can also view them [here](https://github.com/mkgp-dev/mkgp-dev/tree/main/certificate) directly.
+> You can also view them [here](./storage) directly.
 
 | Certificate name | Issuer | Validity | Archive |
 | :--------------- | :----- | :------- | :------ |
@@ -21,9 +13,3 @@ I'm currently learning through CS50, freeCodeCamp, and The Odin Project.
 | Back End Development and APIs v8 | freeCodeCamp | [View](https://www.freecodecamp.org/certification/mkgp-dev/back-end-development-and-apis) | [personal-fcc](https://github.com/mkgp-dev/personal-fcc-archive) |
 | Front End Development Libraries v8 | freeCodeCamp | [View](https://www.freecodecamp.org/certification/mkgp-dev/front-end-development-libraries) | [personal-fcc](https://github.com/mkgp-dev/personal-fcc-archive) |
 | Learning the Basics of VIBE Coding: An Introduction to Visual and Interactive Programming | Certifika | [View](https://explorer.certifika.org/token/BASE-1405) | Unavailable
-
-<!-- Status (this should be hidden for the mean time)
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkgp-dev&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="mkgp-dev" />
-</p>
--->
