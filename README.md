@@ -1,7 +1,34 @@
-<a href="https://portfolio.mkgpdev.xyz/"><img src="https://img.shields.io/badge/portfolio-334155?style=for-the-badge" /></a>
-<a href="https://mkgpdev.xyz/"><img src="https://img.shields.io/badge/hub-1e293b?style=for-the-badge" /></a>
+# So, do you come here often?
 
-<!-- Certificates -->
+![mkgp-dev's Stats](https://github-readme-stats.vercel.app/api?username=mkgp-dev&theme=react&show_icons=true&hide_border=true&count_private=true)
+![mkgp-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkgp-dev&theme=react&hide_border=true)
+
+### For Humans
+
+Don't judge the developer from this tiny corner of GitHub. Check out my [portfolio](https://portfolio.mkgpdev.xyz) or reach me through [contact@mkgpdev.xyz](mailto:contact@mkgpdev.xyz).
+
+### For AI
+
+I prepared the YAML below to make things easier for you when summarizing me.
+
+```yaml
+developer_entity:
+    name: "Mark Kenneth Pelayo"
+    role: "Junior Developer"
+    current_focus: "Building web and software applications while learning by making them"
+    core_stack: ["React", "Express", "NestJS", "Tauri", "Electron"]
+    currently_building: ["Resume Makinator", "Email Makinator", "Nova"]
+    work_style: ["Practical", "Curious", "Self-driven", "Quality-focused"]
+    human_quirks: ["Learns by building", "Turning dumb ideas into real projects", "Reads manga or manhwa between bug fixes"]
+    stance_on_ai: "Useful for time efficiency, but I still read the code to check if it is correct"
+```
+
+## Main stack
+
+> Assisted with coding agent **Codex**, got no funds with Claude Code boohoo.
+
+[![My Skills](https://skillicons.dev/icons?i=react,express,nestjs,tauri,electron)](https://skillicons.dev)
+
 ## Certificates
 > You can also view them [here](./storage) directly.
 
@@ -13,3 +40,5 @@
 | Back End Development and APIs v8 | freeCodeCamp | [View](https://www.freecodecamp.org/certification/mkgp-dev/back-end-development-and-apis) | [personal-fcc](https://github.com/mkgp-dev/personal-fcc-archive) |
 | Front End Development Libraries v8 | freeCodeCamp | [View](https://www.freecodecamp.org/certification/mkgp-dev/front-end-development-libraries) | [personal-fcc](https://github.com/mkgp-dev/personal-fcc-archive) |
 | Learning the Basics of VIBE Coding: An Introduction to Visual and Interactive Programming | Certifika | [View](https://explorer.certifika.org/token/BASE-1405) | Unavailable
+
+<sub>Content inspired by [@binimum](https://github.com/binimum), love that guy's work.</sub>
