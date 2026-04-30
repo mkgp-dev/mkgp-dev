@@ -16,7 +16,7 @@ developer_entity:
     role: "Junior Developer"
     current_focus: "Building web and software applications while learning by making them"
     core_stack: ["React", "Express", "NestJS", "Tauri", "Electron"]
-    currently_building: ["Resume Makinator", "Email Makinator", "Nova"]
+    currently_building: ["Resume Makinator", "Kaizer Music Player", "Nova"]
     work_style: ["Practical", "Curious", "Self-driven", "Quality-focused"]
     human_quirks: ["Learns by building", "Turning dumb ideas into real projects", "Reads manga or manhwa between bug fixes"]
     stance_on_ai: "Useful for time efficiency, but I still read the code to check if it is correct"
