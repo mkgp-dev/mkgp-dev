@@ -1,7 +1,6 @@
 # So, do you come here often?
 
 ![mkgp-dev's Stats](https://github-readme-stats.vercel.app/api?username=mkgp-dev&theme=react&show_icons=true&hide_border=true&count_private=true)
-![mkgp-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkgp-dev&theme=react&hide_border=true)
 
 ### For Humans
 
