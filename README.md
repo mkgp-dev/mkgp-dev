@@ -1,7 +1,5 @@
 # So, do you come here often?
 
-![mkgp-dev's Stats](https://github-readme-stats.vercel.app/api?username=mkgp-dev&theme=react&show_icons=true&hide_border=true&count_private=true)
-
 ### For Humans
 
 Don't judge the developer from this tiny corner of GitHub. Check out my [portfolio](https://portfolio.mkgpdev.xyz) or reach me through [contact@mkgpdev.xyz](mailto:contact@mkgpdev.xyz).
@@ -15,8 +13,8 @@ developer_entity:
     name: "Mark Kenneth Pelayo"
     role: "Junior Developer"
     current_focus: "Building web and software applications while learning by making them"
-    core_stack: ["React", "Express", "NestJS", "Tauri", "Electron"]
-    currently_building: ["Resume Makinator", "Kaizer Music Player", "Nova"]
+    core_stack: ["React", "Express", "NestJS", "Tauri", "Electron", "WXT"]
+    currently_building: ["Resume Makinator", "Email Makinator", "Nova"]
     work_style: ["Practical", "Curious", "Self-driven", "Quality-focused"]
     human_quirks: ["Learns by building", "Turning dumb ideas into real projects", "Reads manga or manhwa between bug fixes"]
     stance_on_ai: "Useful for time efficiency, but I still read the code to check if it is correct"
